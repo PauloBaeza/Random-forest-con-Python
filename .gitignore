@@ -1,0 +1,55 @@
+.cache/
+.conda/
+.continuum/
+.ipynb_checkpoints/
+.vscode/
+anaconda3/
+NTUSER.DAT*
+*.log
+# Directorios y archivos de configuración del entorno
+.condarc
+.eclipse/
+.idlerc/
+.ipython/
+.jupyter/
+.keras/
+.matplotlib/
+.spyder-py3/
+.vscode/
+.vscode-R/
+.lesshst
+
+# Directorios de Windows
+3D Objects/
+AppData/
+Application Data/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.DAT*
+OneDrive/
+Saved Games/
+Searches/
+Videos/
+
+# Archivos de registro y temporales
+*.log
+*.tmp
+*.blf
+*.regtrans-ms
+# Ignorar archivos adicionales
+Dropbox/
+IntelGraphicsProfiles/
+Jedi/
+Microsoft/
+MicrosoftEdgeBackups/
+OneDrive - udd.cl/
+Untitled.ipynb
+Untitled1.ipynb
+cache/
+get-pip.py
+ntuser.ini
+opl/
